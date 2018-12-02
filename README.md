@@ -1,2 +1,2 @@
-# machineLearningCourseProject
-This is implementations of machine learning course experiments.
+# MachineLearningCourse
+Experiment of machine learning course
